@@ -19,10 +19,11 @@ Submit detailed answers to the following in this file via a pull request:
 -   The data structure you plan to use.
     Json, or object to store the data.
 -   How you will take the markup of the game board and represent it in JS
-    an array with 9 elements
+    an array with 9 elements, and using 9 divs blocks to make the game board.
 -   How you plan to approach this project.
     I will make a html file first with the grid on it, and try to walk through the game logic making all the files and connecting the api server next. Next write out the javascript file make the game work. lastly, designing the page, working on the art.
 -   4-8 user stories for your game project.
+    I don't really understand the questions.
 -   How you plan to keep your code modular.
     I will seperate the game in 3 parts, front-end(html), data transite, Javascript(game logic).
 -   What creative spin will you add to your project?
